@@ -15,8 +15,6 @@ rag-10k-qa/
 ├── colab_notebook_code.py   # full notebook code split into cells
 ├── design_report.md         # chunking + model choice explanation
 ├── requirements.txt
-├── 10-Q4-2024-As-Filed.pdf  # Apple 2024 10-K  (add manually — too large for git)
-└── tsla-20231231-gen.pdf    # Tesla 2023 10-K  (add manually — too large for git)
 ```
 
 ---
