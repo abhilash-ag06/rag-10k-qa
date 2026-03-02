@@ -1,0 +1,127 @@
+[
+  {
+    "question_id": 1,
+    "answer": "Apple's total revenue for the fiscal year ended September 28, 2024 was $391,035 million. [Source: Apple 10-K, Item 8 Consolidated Statements of Operations, p.282]",
+    "sources": [
+      "Apple 10-K, Item 8 Consolidated Statements of Operations, p.282",
+      "Apple 10-K, Signature Page, p.118",
+      "Apple 10-K, General, p.32",
+      "Apple 10-K, General, p.33",
+      "Apple 10-K, General, p.35"
+    ]
+  },
+  {
+    "question_id": 2,
+    "answer": "The number of shares of common stock issued and outstanding as of October 18, 2024 was 15,115,823,000. [Source: Apple 10-K, Cover Page, p.1]",
+    "sources": [
+      "Apple 10-K, Cover Page, p.1",
+      "Apple 10-K, Item 5. \nMarket for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Pur, p.22",
+      "Apple 10-K, General, p.35",
+      "Apple 10-K, General, p.47",
+      "Apple 10-K, General, p.61"
+    ]
+  },
+  {
+    "question_id": 3,
+    "answer": "The total amount of term debt reported by Apple as of September 28, 2024 is $96,662 million. [Source: Apple 10-K, Item 8 Note 9, p.394]",
+    "sources": [
+      "Apple 10-K, Item 8 Note 9, p.394",
+      "Apple 10-K, Cover Page, p.1",
+      "Apple 10-K, General, p.34",
+      "Apple 10-K, General, p.35",
+      "Apple 10-K, General, p.33"
+    ]
+  },
+  {
+    "question_id": 4,
+    "answer": "The Apple 10-K report for fiscal year ended September 28, 2024 was signed on November 1, 2024 and filed with the SEC on the same day. [Source: Apple 10-K, Signature Page, p.118]",
+    "sources": [
+      "Apple 10-K, Signature Page, p.118",
+      "Apple 10-K, Cover Page, p.1",
+      "Apple 10-K, General, p.60",
+      "Apple 10-K, General, p.118",
+      "Apple 10-K, Item 1.\nBusiness, p.3"
+    ]
+  },
+  {
+    "question_id": 5,
+    "answer": "According to Source 1, Apple has no unresolved staff comments from the SEC. [Apple 10-K, Item 1B, p.176]",
+    "sources": [
+      "Apple 10-K, Item 1B Unresolved Staff Comments, p.176",
+      "Apple 10-K, Signature Page, p.118",
+      "Apple 10-K, Item 1.\nBusiness, p.3",
+      "Apple 10-K, Item 1.\nBusiness, p.3",
+      "Apple 10-K, Item 1A. \nRisk Factors, p.8"
+    ]
+  },
+  {
+    "question_id": 6,
+    "answer": "According to Source 3, Tesla's total revenue for the year ended December 31, 2023 was $96,773 million. [Source 3: Tesla 10-K, Item 7, p.51]",
+    "sources": [
+      "Tesla 10-K, Item 7 Revenue Breakdown, p.51",
+      "Tesla 10-K, Item 1 Business, p.5",
+      "Tesla 10-K, General, p.51",
+      "Tesla 10-K, General, p.52",
+      "Tesla 10-K, General, p.54"
+    ]
+  },
+  {
+    "question_id": 7,
+    "answer": "Approximately 84.7 percent of Tesla's total revenue in 2023 came from Automotive Sales (excluding Leasing). [Source: Tesla 10-K, Item 7, p.51]",
+    "sources": [
+      "Tesla 10-K, Item 7 Revenue Breakdown, p.51",
+      "Tesla 10-K, Item 1 Business, p.5",
+      "Tesla 10-K, General, p.51",
+      "Tesla 10-K, General, p.40",
+      "Tesla 10-K, General, p.39"
+    ]
+  },
+  {
+    "question_id": 8,
+    "answer": "Tesla states that it is highly dependent on Elon Musk, the Chief Executive Officer, because he is central to Tesla's strategy and operations, and his loss or inability to dedicate sufficient time could disrupt operations and harm the business. [Source: Tesla 10-K, Item 1A Risk Factors, p.22]",
+    "sources": [
+      "Tesla 10-K, Item 1A Risk Factors, p.22",
+      "Tesla 10-K, Item 7 Lease Pass-Through, p.56",
+      "Tesla 10-K, General, p.22",
+      "Tesla 10-K, General, p.124",
+      "Tesla 10-K, General, p.89"
+    ]
+  },
+  {
+    "question_id": 9,
+    "answer": "Tesla currently produces and delivers Model S (sedan), Model X (SUV), Model 3 (sedan), Model Y (SUV/crossover), and Cybertruck (pickup truck) [Source 1]. The Tesla Semi is in limited/pilot production [Source 1].",
+    "sources": [
+      "Tesla 10-K, Item 1 Business, p.5",
+      "Tesla 10-K, Item 7 Revenue Breakdown, p.51",
+      "Tesla 10-K, General, p.35",
+      "Tesla 10-K, General, p.8",
+      "Tesla 10-K, General, p.18"
+    ]
+  },
+  {
+    "question_id": 10,
+    "answer": "Tesla's lease pass-through fund arrangements allow the company to finance the cost of solar energy systems by entering into lease agreements with customers and power purchase agreements (PPAs) with investors who provide upfront capital and receive tax credits and depreciation benefits. This enables Tesla to fund solar deployments without using its own capital. [Source: Tesla 10-K, Item 7 Lease Pass-Through, p.56]",
+    "sources": [
+      "Tesla 10-K, Item 7 Lease Pass-Through, p.56",
+      "Tesla 10-K, Item 7 Revenue Breakdown, p.51",
+      "Tesla 10-K, General, p.56",
+      "Tesla 10-K, General, p.59",
+      "Tesla 10-K, General, p.92"
+    ]
+  },
+  {
+    "question_id": 11,
+    "answer": "This question cannot be answered based on the provided documents.",
+    "sources": []
+  },
+  {
+    "question_id": 12,
+    "answer": "This question cannot be answered based on the provided documents.",
+    "sources": []
+  },
+  {
+    "question_id": 13,
+    "answer": "This question cannot be answered based on the provided documents.",
+    "sources": []
+  }
+]
